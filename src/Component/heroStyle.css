@@ -1,0 +1,18 @@
+.hero{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.hero h1{
+    color: aliceblue;
+    font-size: 3rem;
+}
+.hero p{
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+.hero a{
+    color: aliceblue;
+}
